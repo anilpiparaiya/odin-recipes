@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin Recipes
 
 This project is about some famous Indian Recipes
 
